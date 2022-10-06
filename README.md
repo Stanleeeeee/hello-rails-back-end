@@ -14,6 +14,10 @@ Use rails  to build greeting api. The app generate random greeting to user
 - [x] Linter: [Rubocop](https://rubocop.org/)
 - [x] VS Code
 
+## Link to Front-end
+[React](https://github.com/Stanleeeeee/hello-react-front-end)
+
+
 ## [Go live](#)
 
 ## Getting Started
@@ -62,7 +66,6 @@ $ rspec
 
 ## Author 1
 
-
 👤   **Ezeoke Stanley Ifeanyi**
 
 - GitHub: https://github.com/Stanleeeeee
@@ -87,4 +90,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/medsonmoombe/hello-rails-backend/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/stanleeeeee/hello-rails-backend/blob/dev/LICENSE) licensed.
