@@ -11,9 +11,9 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Link to Front-end (if available)
 
-[Live Demo Link](https://livedemo.com)
+[React](https://github.com/Stanleeeeee/hello-react-front-end)
 
 
 ## Getting Started
