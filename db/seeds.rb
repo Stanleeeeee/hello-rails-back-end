@@ -2,6 +2,10 @@
 # The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
 #
 # Examples:
-#
+Greeting.create(greeting: "Hello")
+Greeting.create(greeting: "Good Morning")
+Greeting.create(greeting: "How are you")
+Greeting.create(greeting: "Good day!")
+Greeting.create(greeting: "Thank you")
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)

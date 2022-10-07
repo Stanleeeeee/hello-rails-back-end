@@ -1,62 +1,82 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Rails api
 
-> Description the project.
+Use rails  to build greeting api. The app generate random greeting to user
 
+## Front end repo 
+[]()
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- [x] Programming Language: Ruby
+- [x] Framework : Ruby on Rails
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
-## Link to Front-end (if available)
-
+## Link to Front-end
 [React](https://github.com/Stanleeeeee/hello-react-front-end)
 
 
+## [Go live](#)
+
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+You can get a local copy up and running following these simple steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
 
 
+### Install and Usage
 
-## Authors
+In the terminal, go to your file directory and run this command.
 
-👤 **Author1**
+> Clone the repository
+```
+$ git clone https://github.com/Stanleeeeee/hello-rails-back-end.git
+```
+```
+$ cd hello-rails-backend
+```
+> Install Gemfile
+```
+$ bundle install
+```
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+> Run the app 
+```
+$ rails s
+```
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Rubocop
+> To check linter
+```
+$ rubocop --color
+```
+
+## Rspec
+> To run testing 
+```
+$ rspec 
+```
+
+## Author 1
+
+👤   **Ezeoke Stanley Ifeanyi**
+
+- GitHub: https://github.com/Stanleeeeee
+- Twitter: https://twitter.com/@Stanmega89
+- LinkedIn: https://www.linkedin.com/in/stanley-ezeoke
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page]
 
 ## Show your support
 
@@ -64,12 +84,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Microverse](https://www.microverse.org/)
+- Coding Partners
+- Code Reviewers
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/stanleeeeee/hello-rails-backend/blob/dev/LICENSE) licensed.
